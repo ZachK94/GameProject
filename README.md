@@ -7,4 +7,4 @@ The main character has a limited number of lives.
 You should watch out for bombs, which explode when the main character comes into contact with them, taking away his life. 
 The game has 4 levels, with each level the difficulty grows.
 
-~project in progress~
+-project in progress-
