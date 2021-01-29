@@ -69,24 +69,9 @@ public class Game extends JPanel implements KeyListener {
     int level = 1;
     boolean nextLevel = false;
 
-
-
-
     public Game() {
-//        setFocusable(true);
-//        requestFocus();
-//        setVisible(true);
-//        requestFocusInWindow();
-//        addKeyListener(this);
-//        this.run();
-//        beginning();
-
-
+        
     }
-
-
-
-
 
     public void beginning(){
         panda = new Panda();
@@ -159,7 +144,6 @@ public class Game extends JPanel implements KeyListener {
             e.printStackTrace();
         }
     }
-
 
 
 
