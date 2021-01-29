@@ -24,13 +24,8 @@ public class Panda {
     //wyrysowanie pandy
     public void drawPanda(Graphics g) {
         if (!collisionWithBomb){
-
             g.drawImage(img, x, y, sizeX, sizeY,null );
-//                g.drawImage(ImageIO.read(new File("Resource/panda.png")), x, y, sizeX, sizeY,null);
-
         }
-
-
     }
 
     //wyrysowanie eksplozji
@@ -51,11 +46,6 @@ public class Panda {
         else
             collisionWithBomb = false;
     }
-
-
-
-
-
 }
 
 
