@@ -8,3 +8,5 @@ You should watch out for bombs, which explode when the main character comes into
 The game has 4 levels, with each level the difficulty grows.
 
 -project in progress-
+
+PS. no pandas were harmed in the development of this game
